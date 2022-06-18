@@ -1,2 +1,2 @@
 # degrees
-1st week of AI programming with Python.
+1st week of CS50's Introduction to AI with Python
